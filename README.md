@@ -12,6 +12,10 @@ BigQuery SQL work samples by **Waleed** — Data Specialist.
   Built an enriched transaction dataset in BigQuery to power
   revenue and retention analysis for a digital neobank.
 
+- **[Budget vs. Actual — Financial Reporting Pipeline](./finance-budget-vs-actual)**
+  Three-layer BigQuery pipeline modelling actuals, forecasts and
+  variance for automated finance reporting.
+
 ---
 
 ## About
