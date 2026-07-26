@@ -16,6 +16,10 @@ BigQuery SQL work samples by **Waleed** — Data Specialist.
   Three-layer BigQuery pipeline modelling actuals, forecasts and
   variance for automated finance reporting.
 
+- **[Student Retention & Revenue Analytics](./tutoring-retention-analytics)**
+  Five-layer BigQuery model bridging CRM and accounting data to
+  track student activity, cohorts, lifetime value and churn.
+
 ---
 
 ## About
